@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/HGWAYEN/HGWAYEN/master/profile-summary-card-output/tokyonight/3-stats.svg)![](https://raw.githubusercontent.com/HGWAYEN/HGWAYEN/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/HGWAYEN/HGWAYEN/master/profile-summary-card-output/github/3-stats.svg)![](https://raw.githubusercontent.com/HGWAYEN/HGWAYEN/master/profile-summary-card-output/github/2-most-commit-language.svg)
